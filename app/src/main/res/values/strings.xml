@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExpenseTrackerDemo</string>
+    <string name="debited">Debited</string>
+    <string name="credited">Credited</string>
+    <string name="transactions_credited">Transactions(Credited)</string>
+    <string name="transactions_debited">Transactions(Debited)</string>
+    <string name="error">Error</string>
+    <string name="sms_permissions_are_required_error">SMS permission is required to continue</string>
+    <string name="ok">Ok</string>
+    <string name="grant_sms_permission_from_settings">Please Grant SMS permission to app from settings</string>
+</resources>
